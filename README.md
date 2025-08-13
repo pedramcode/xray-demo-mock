@@ -34,6 +34,12 @@ yarn install
 
 ### Usage
 
+Set `.env` file:
+
+```ENV
+RABBITMQ_URL=amqp://localhost:5672
+```
+
 Start the mock server:
 
 ```bash
